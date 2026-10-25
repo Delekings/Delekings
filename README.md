@@ -385,7 +385,6 @@
     line-height: 1;
   }
 
-  .work-icon { font-size: 1.5rem; margin-bottom: 1rem; }
 
   .work-title {
     font-family: 'Playfair Display', serif;
@@ -745,37 +744,31 @@
   <div class="work-grid">
     <div class="work-card reveal">
       <div class="work-num">01</div>
-      <div class="work-icon">⚖️</div>
       <div class="work-title">AI Policy & Governance</div>
       <div class="work-desc">Designing and advocating for regulatory frameworks that govern AI development and deployment responsibly. From national AI strategies to international standards bodies.</div>
     </div>
     <div class="work-card reveal">
       <div class="work-num">02</div>
-      <div class="work-icon">🛡️</div>
       <div class="work-title">Data Protection & Privacy</div>
       <div class="work-desc">Operationalising data protection law in real organisational contexts. Conducting DPIAs, advising on compliance, and advocating for data rights as human rights.</div>
     </div>
     <div class="work-card reveal">
       <div class="work-num">03</div>
-      <div class="work-icon">🌍</div>
       <div class="work-title">African AI Ethics</div>
       <div class="work-desc">Centring African perspectives in global AI conversations. Building frameworks that reflect the continent's cultural, legal, and socioeconomic realities — not imported assumptions.</div>
     </div>
     <div class="work-card reveal">
       <div class="work-num">04</div>
-      <div class="work-icon">🔍</div>
       <div class="work-title">Algorithmic Fairness</div>
       <div class="work-desc">Evaluating AI systems for bias, discrimination, and opacity. Translating technical AI safety concepts into actionable governance and audit frameworks.</div>
     </div>
     <div class="work-card reveal">
       <div class="work-num">05</div>
-      <div class="work-icon">🎓</div>
       <div class="work-title">Capacity Development</div>
       <div class="work-desc">Training the next generation of African AI ethics practitioners through the Annual AI Ethics Summer School and mentoring programmes across the continent and beyond.</div>
     </div>
     <div class="work-card reveal">
       <div class="work-num">06</div>
-      <div class="work-icon">📡</div>
       <div class="work-title">Research & Publishing</div>
       <div class="work-desc">Producing peer-reviewed and policy research on recommender systems, data sovereignty, digital commons, and responsible AI — from ACM proceedings to UN submissions.</div>
     </div>
